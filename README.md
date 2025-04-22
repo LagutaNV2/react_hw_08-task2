@@ -1,6 +1,7 @@
 useJsonFetch
-сервер: https://github.com/LagutaNV2/react_hw_08-task2-server
 ===
+
+сервер: https://github.com/LagutaNV2/react_hw_08-task2-server
 
 Реализуйте кастомный хук `useJsonFetch`, который позволяет с помощью `fetch` осуществлять HTTP-запросы.
 
